@@ -1,4 +1,4 @@
-# Simple-Command-Bot
+# Simple-Voice-Assistant
 
 This is a simple voice based bot which has the following functionalities:
 
